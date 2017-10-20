@@ -88,7 +88,7 @@ INCLUDE(CPack)
 ################################################################################
 SET(WX_DEBUG NO CACHE BOOL "Use the debug build of wxWidgets?")
 SET(WX_STATIC ${STATIC_BUILD})
-SET(WX_VERSION "2.8")
+SET(WX_VERSION "3.0")
 SET(WX_UNICODE YES)
 SET(WX_MODULES "base")
 
